@@ -1,2 +1,2 @@
 # testrepo
-repo test for github
+Tároló a GITHUB teszteléséhez
